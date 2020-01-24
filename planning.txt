@@ -1,1 +1,7 @@
 planning de travail 
+lundi = Cobol
+mardi = java
+mercredi = Hibernate
+jeudi = SQL
+vendredi = XML
+samedi & dimanche = PLS
